@@ -1,6 +1,6 @@
 # Codecademy Project - Flexbox Business Website
 
-This is a solution to the ['Flexbox-business-site-starting' Project from](https://www.codecademy.com).
+This is a solution to the ['Flexbox-business-site-starting' Project from Codecademy](https://www.codecademy.com).
 
 ## Table of contents
 
@@ -15,7 +15,7 @@ Practicing my Flexbox skills by taking small first steps implementing flexbox in
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [here](https://jorgepalma95.github.io/flexbox-business-site-starting/)
 
 ### Built with
 
