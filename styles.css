@@ -103,7 +103,7 @@ nav li {
 
 /* Introduction banner */
 #missionBanner {
-    background-image: url(images/homepage_banner.jpg);
+    background-image: url(./images/homepage_banner.jpg);
     background-size: cover;
     height: 30rem;
     overflow: hidden;
